@@ -1,7 +1,11 @@
 #div-first {
-    color: red;
+    background-color: red;
+    height: 500px;
+    width: 500px;
 }
 
 #div-second {
-    color: green;
+    background-color: green;
+    height: 500px;
+    width: 500px;
 }
